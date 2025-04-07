@@ -36,10 +36,18 @@ Eventi per tipo (`eventid`)  - - Visualizza il volume di ogni tipologia di log
 ![Dashboard - Eventi per tipo](images/Eventi_per_tipo.jpg)
 
 <br>Comandi eseguiti         - - Mostra i comandi digitati dall’attaccante
+![Comandi Eseguiti](images/Comandi_digitati.jpg)
+
 <br>File scaricati           - - Elenco degli URL da cui sono stati scaricati file
+
 <br>Login riusciti           - - IP e credenziali utilizzate
+![Login riusciti](images/Login_Riusciti)
+
 <br>Timeline attacchi        - - Attività visualizzata nel tempo
+![Timeline attacchi](images/Timeline_attacchi.jpg)
+
 <br>IP attaccanti più attivi - - Gli IP che generano più eventi
+![Ip attaccanti](images/Ip_attaccanti.jpg)
 
 
 
