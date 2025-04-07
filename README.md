@@ -33,6 +33,8 @@ La dashboard contiene:
 **Pannello**                         **Descrizione**                                      
 
 Eventi per tipo (`eventid`)  - - Visualizza il volume di ogni tipologia di log 
+(images/eventi per tipo.jpg)
+
 <br>Comandi eseguiti         - - Mostra i comandi digitati dall’attaccante
 <br>File scaricati           - - Elenco degli URL da cui sono stati scaricati file
 <br>Login riusciti           - - IP e credenziali utilizzate
