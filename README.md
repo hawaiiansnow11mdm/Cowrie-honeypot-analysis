@@ -36,7 +36,7 @@ Eventi per tipo (`eventid`)  - - Visualizza il volume di ogni tipologia di log
 ![Dashboard - Eventi per tipo](images/Eventi_per_tipo.jpg)
 
 <br>Comandi eseguiti         - - Mostra i comandi digitati dall’attaccante
-![Comandi Eseguiti](images/Comandi_digitati.jpg)
+![Comandi Eseguiti](images/Comandi_eseguiti.jpg)
 
 <br>File scaricati           - - Elenco degli URL da cui sono stati scaricati file
 
