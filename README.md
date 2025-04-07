@@ -41,7 +41,7 @@ Eventi per tipo (`eventid`)  - - Visualizza il volume di ogni tipologia di log
 <br>File scaricati           - - Elenco degli URL da cui sono stati scaricati file
 
 <br>Login riusciti           - - IP e credenziali utilizzate
-![Login riusciti](images/Login_Riusciti)
+![Login riusciti](images/Login_Riusciti.jpg)
 
 <br>Timeline attacchi        - - Attività visualizzata nel tempo
 ![Timeline attacchi](images/Timeline_attacchi.jpg)
